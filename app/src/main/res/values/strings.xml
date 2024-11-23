@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FinalProjetNative2MyByOwneVersion</string>
+    <string name="play">play</string>
+    <string name="language">language</string>
+    <string name="dictionnary">dictionnary</string>
+    <string name="credit">credit</string>
+    <string name="history">History</string>
+    <string name="hint">Hint</string>
+    <string name="gotoLobby">return</string>
+    <string name="scoreLabel">Score</string>
+    <string name="wordLabel">Word</string>
+    <string name="levelEasy">level : Easy</string>
+    <string name="levelMedium">level : Medium</string>
+    <string name="levelHard">level : Hard</string>
+    <string name="save">Save</string>
+    <string name="fr_inp">fr_inp</string>
+    <string name="en_inp">en_inp</string>
+    <string name="add">add</string>
+</resources>
